@@ -1,7 +1,7 @@
 # HeartFailturePrediction
 
 This project is based on Kaggle data challenge: Heart Failure Prediction. <br/>
-link: https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data
+Link: https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data
 
 # About this data set
 Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worlwide.
