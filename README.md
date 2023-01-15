@@ -1,6 +1,6 @@
 # HeartFailturePrediction
 
-This project is based on Kaggle data challenge: Heart Failure Prediction.
+This project is based on Kaggle data challenge: Heart Failure Prediction. <br/>
 link: https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data
 
 # About this data set
